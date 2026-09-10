@@ -1,0 +1,6 @@
+STOCK PORTFOLIO TRACKER
+=======================
+
+AMZN | Quantity: 2 | Price: $190 | Investment: $380
+
+Total Investment: $380
